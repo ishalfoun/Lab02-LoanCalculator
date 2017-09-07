@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="title">Loan Calculator</string>
+    <string name="loanAmount">Loan Amount</string>
+    <string name="loanTerm">Term of Loan (in full years)</string>
+    <string name="interestRate">Yearly Interest Rate</string>
+    <string name="calculate">Calculate</string>
+    <string name="clear">Clear</string>
+    <string name="results">Results</string>
+    <string name="monthly">Monthly Payment</string>
+    <string name="totalPayment">Total Payment</string>
+    <string name="totalInterest">Total Interest</string>
+    <string name="hintVal1">50000</string>
+    <string name="hintVal2">7</string>
+    <string name="hintVal3">7.5</string>
+    <string name="InvalidError">You have entered invalid data</string>
+</resources>
